@@ -15,7 +15,9 @@ YZUPortal 驗證碼OCR: Tesseract + GraphicsMagick + Node.js API
 ![](https://i.imgur.com/2VvZGlZ.png)
 5. 完成</br>
 ![](https://i.imgur.com/ZQSh7AQ.png)
-
+```
+注意! 成功安裝後若把插件資料夾刪掉，插件也會消失。請將插件當成程式一樣放在固定位置。
+```
 ## 使用
 只要進入Portal登入頁面，插件自動做動。如果你手動重整驗證碼，或是驗證碼辨識不太正確，你可以選擇:
 1. 重整頁面讓插件重新做動
