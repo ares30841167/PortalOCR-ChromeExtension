@@ -1,6 +1,8 @@
 # PortalOCR-ChromeExtension
 YZUPortal 驗證碼OCR: Tesseract + GraphicsMagick + Node.js API
 
+2023/06/05 這個插件早就已經沒有用了，因為登入頁面的認證方式早就改了，所以這個Repo只是留做一個紀念而已。
+
 ## 說明
 此chrome插件基於 [Tyzesc](https://github.com/tyzesc/Portal-OCR) 的Code做實例化，以Node.js + Express 將處理Captcha的部分寫成API(處理部分詳請見Tyzesc的Repository)，讓使用者可以透過此插件將Portal登入頁面上的Captcha自動送到伺服器處理後，將回傳的結果自動填入驗證碼的欄位裡。
 
